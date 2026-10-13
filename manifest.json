@@ -1,0 +1,14 @@
+{
+  "background_color": "#f9f9f9",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bab 3omara Smart Control",
+  "orientation": "portrait",
+  "scope": "/B-80/",
+  "short_name": "Bab 3omara",
+  "start_url": "/B-80/",
+  "theme_color": "#f9f9f9",
+  "id": "/B-80/",
+  "description": "Smart control dashboard for Bab 3omara",
+  "lang": "en"
+}
