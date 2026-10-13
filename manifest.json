@@ -1,14 +1,27 @@
+
 {
-  "background_color": "#f9f9f9",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Bab 3omara Smart Control",
-  "orientation": "portrait",
-  "scope": "/B-80/",
-  "short_name": "Bab 3omara",
-  "start_url": "/B-80/",
-  "theme_color": "#f9f9f9",
   "id": "/B-80/",
+  "name": "Bab 3omara Smart Control",
+  "short_name": "Bab 3omara",
   "description": "Smart control dashboard for Bab 3omara",
-  "lang": "en"
+  "start_url": "/B-80/",
+  "scope": "/B-80/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f9f9f9",
+  "theme_color": "#f9f9f9",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
